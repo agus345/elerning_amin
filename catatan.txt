@@ -1,0 +1,6 @@
+Yang eror
+file materi
+siswa itu di  foreignkey kan dengan tabel guru bisa buat v.siswa ada di folder SQL
+Jadwal
+
+Tambahan bikin manage artikel  per kategori 
